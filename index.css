@@ -83,7 +83,7 @@ article {
   padding: 1.5em 3em 1.5em 3em;
 }
 ::-webkit-scrollbar {
-  width: 0.4em;
+  width: 0.2em;
 }
 ::-webkit-scrollbar-track {
   background: #888;
