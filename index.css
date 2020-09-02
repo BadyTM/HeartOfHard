@@ -14,6 +14,7 @@ html,body {
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url("backgrounds/wall.jpg");
+    background-attachment: fixed;
 }
 
 header {
